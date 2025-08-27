@@ -27,7 +27,7 @@ Creates Semi-Finals and Final Match with placeholders for winners.
 
 🛠️ Setup & Installation
 1. Clone the Repository
-git clone https://github.com/your-username/cricket-scheduler.git
+git clone https://github.com/MuhammadShafey15/Internship-Project
 cd cricket-scheduler
 
 2. Install Python
